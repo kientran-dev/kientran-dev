@@ -38,7 +38,9 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kientran-dev&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-seven-delta-28.vercel.app/api?username=kientran-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=43200)
+
+![Top Langs](https://github-readme-stats-seven-delta-28.vercel.app/api/top-langs/?username=kientran-dev&layout=compact&cache_seconds=43200)
 
 ## 💬 Favorite Quote
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
